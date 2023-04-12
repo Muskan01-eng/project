@@ -1,0 +1,34 @@
+body{
+   
+   
+   
+}
+#title{
+   
+    background-image: url("star-star-shower.gif");
+    background-size: 50%;
+    background-repeat: repeat-x;
+    
+  padding-top: 5%;
+  padding-left: 2%;
+    
+}
+h1{
+    text-align:  center;
+    color: rgb(243, 209, 19);
+    font-size: 5rem;
+    font-family:cursive;
+   
+}
+img{
+    width: 80%;
+}
+#next{
+    background-image: url("star-star-shower.gif");
+    background-size: 80%;
+    background-repeat: repeat-x;
+    
+  padding-top: 5%;
+  padding-left: 2%;
+  margin-top: 1px;
+}
